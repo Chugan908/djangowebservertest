@@ -1,9 +1,16 @@
-Dažādu tīmekļa serveru Django tīmekļa lietotnes ātrdarbības ietekme
-> Abstract of the project or small introduction of what the project is about
-<hr>
-                                            Testu rezultāti ar 1 lietotāju
-Testēšanas paraugs
-wrk -t1 -c750 -d600s http://192.168.0.164/database
+# Dažādu tīmekļa serveru Django tīmekļa lietotnes ātrdarbības ietekme
+
+## Performance Impact of Different Web Servers on Django Web App
+The main goal of this work is to investigate how different web servers can affect the speed of a Django web app. For the research, a Django web app was created that includes various tests, the execution speed of which was measured on selected web servers.
+
+Analysis of the test results allows us to conclude that in the context of simple operations, the web server Gunicorn shows the fastest performance. However, in more complex cases, the web server Nginx showed the best performance.
+
+**Keywords:** Django, Python, web server
+
+## Testu rezultāti ar 1 lietotāju
+Testēšanas paraugs: `wrk -t1 -c750 -d600s http://192.168.0.164/database`
+
+
 
 ![asd](https://github.com/user-attachments/assets/a89d25aa-501c-4e62-a295-0e40da726db5)
 ![ghfh](https://github.com/user-attachments/assets/c4f76b24-dc97-47f0-9678-20621cd57599)

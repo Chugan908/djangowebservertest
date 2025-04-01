@@ -4,7 +4,7 @@
 
 ## 🚀 Performance Impact of Different Web Servers on Django Web App
 
-The authors of the paper are Gļebs Cvetkovs and Maksims Rubins, the supervisor is Aleksandrs Korņijenko.
+The authors of the study are Gļebs Cvetkovs and Maksims Rubins, the supervisor is Aleksandrs Korņijenko.
 
 The main goal of this research is to analyze how different web servers impact the performance of a Django web application. A Django app was created to run multiple tests, and the execution speeds were measured on selected web servers.
 

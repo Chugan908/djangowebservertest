@@ -2,6 +2,7 @@
 
 ## Abstract
 Performance Impact of Different Web Servers on Django Web App. The authors of the paper are Gļebs Cvetkovs and Maksims Rubins, the supervisor is Aleksandrs Korņijenko. 
+
 The main goal of this work is to investigate how different web servers can affect the speed of a Django web app. For the research, a Django web app was created that includes various tests, the execution speed of which was measured on selected web servers.
 
 Analysis of the test results allows us to conclude that in the context of simple operations, the web server Gunicorn shows the fastest performance. However, in more complex cases, the web server Nginx showed the best performance.

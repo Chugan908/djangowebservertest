@@ -7,7 +7,7 @@ The main goal of this work is to investigate how different web servers can affec
 
 Analysis of the test results allows us to conclude that in the context of simple operations, the web server Gunicorn shows the fastest performance. However, in more complex cases, the web server Nginx showed the best performance.
 
-## Testu rezultāti ar 1 lietotāju
+# Testu rezultāti ar 1 lietotāju
 Testēšanas paraugs: `wrk -t1 -c750 -d600s http://192.168.0.164/database`
 
 ![asd](https://github.com/user-attachments/assets/a89d25aa-501c-4e62-a295-0e40da726db5)
@@ -15,7 +15,7 @@ Testēšanas paraugs: `wrk -t1 -c750 -d600s http://192.168.0.164/database`
 ![dgf](https://github.com/user-attachments/assets/eb3c373f-870c-4100-81b5-7383142dd593)
 
 
-## Testu rezultāti ar vairākiem lietotājiem
+# Testu rezultāti ar vairākiem lietotājiem
 Testēšanas paraugs: `wrk -t12 -c400 -d600s http://192.168.0.164/database`
 
 ![sadasd](https://github.com/user-attachments/assets/1462998f-a9e2-474a-954f-4fe58d352034)

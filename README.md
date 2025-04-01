@@ -27,11 +27,15 @@ wrk -t1 -c750 -d600s http://192.168.0.164/database
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a89d25aa-501c-4e62-a295-0e40da726db5" width="750" height="450">
 </p>
-
+---
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c4f76b24-dc97-47f0-9678-20621cd57599" width="750" height="450">
 </p>
-![dgf](https://github.com/user-attachments/assets/eb3c373f-870c-4100-81b5-7383142dd593)
+---
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eb3c373f-870c-4100-81b5-7383142dd593" width="750" height="450">
+</p>
+
 
 
 ## 📊 Testu rezultāti ar 1 lietotāju

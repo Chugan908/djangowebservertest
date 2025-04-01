@@ -50,6 +50,22 @@ Testēšanas paraugs:
 wrk -t12 -c400 -d600s http://192.168.0.164/database
 ```
 ---
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1462998f-a9e2-474a-954f-4fe58d352034" width="750" height="450">
+</p>
+
+---
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8e44c807-46b2-4be0-8ccc-89dea364b99d" width="750" height="450">
+</p>
+
+---
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a16c2665-7bc5-491f-81d7-633e35505cb8" width="750" height="450">
+</p>
 ![sadasd](https://github.com/user-attachments/assets/1462998f-a9e2-474a-954f-4fe58d352034)
 ![asdsads](https://github.com/user-attachments/assets/8e44c807-46b2-4be0-8ccc-89dea364b99d)
 ![bvnv](https://github.com/user-attachments/assets/a16c2665-7bc5-491f-81d7-633e35505cb8)

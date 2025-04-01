@@ -41,6 +41,7 @@ wrk -t1 -c750 -d600s http://192.168.0.164/database
 <img src="https://github.com/user-attachments/assets/eb3c373f-870c-4100-81b5-7383142dd593" width="750" height="450">
 </p>
 
+---
 
 ## :bar_chart: Testu rezultāti ar 1 lietotāju
 

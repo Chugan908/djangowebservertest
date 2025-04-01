@@ -34,7 +34,8 @@ wrk -t1 -c750 -d600s http://192.168.0.164/database
 Testēšanas paraugs: 
 ```bash
 wrk -t12 -c400 -d600s http://192.168.0.164/database
-
+```
+---
 ![sadasd](https://github.com/user-attachments/assets/1462998f-a9e2-474a-954f-4fe58d352034)
 ![asdsads](https://github.com/user-attachments/assets/8e44c807-46b2-4be0-8ccc-89dea364b99d)
 ![bvnv](https://github.com/user-attachments/assets/a16c2665-7bc5-491f-81d7-633e35505cb8)

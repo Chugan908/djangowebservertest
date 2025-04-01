@@ -23,7 +23,7 @@ wrk -t1 -c750 -d600s http://192.168.0.164/database
 
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px; background-color: #f9f9f9; border-radius: 10px;">
-  <img src="/mnt/data/image.png" alt="Performance Chart 1" style="width: 30%; max-width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/user-attachments/assets/a89d25aa-501c-4e62-a295-0e40da726db5" alt="Performance Chart 1" style="width: 30%; max-width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="/mnt/data/image.png" alt="Performance Chart 2" style="width: 30%; max-width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="/mnt/data/image.png" alt="Performance Chart 3" style="width: 30%; max-width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
 </div>

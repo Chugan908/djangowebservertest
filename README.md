@@ -43,7 +43,7 @@ wrk -t1 -c750 -d600s http://192.168.0.164/database
 
 ---
 
-## :bar_chart: Testu rezultāti ar 1 lietotāju
+## :bar_chart: Testu rezultāti ar vairākiem lietotājiem
 
 Testēšanas paraugs: 
 ```bash

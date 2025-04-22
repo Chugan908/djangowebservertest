@@ -15,7 +15,6 @@ The main goal of this research is to analyze how different web servers impact th
 :key: **Keywords:** `Django`, `Python`, `Web Server`
 
 ---
----
 
 ## 🌍 Vispopulārākie tīmekļa serveri 2025. gadā
 

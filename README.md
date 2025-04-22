@@ -17,6 +17,7 @@ The main goal of this research is to analyze how different web servers impact th
 ---
 
 ## 🌍 Vispopulārākie tīmekļa serveri 2025. gadā
+<img src="https://github.com/user-attachments/assets/f45dfcdb-9d48-4343-bd0c-f917479d77b4">
 
 📊 *Avots: [W3Techs – Web Server Usage Statistics](https://w3techs.com/technologies/overview/web_server)*
 

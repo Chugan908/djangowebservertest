@@ -22,6 +22,13 @@ The main goal of this research is to analyze how different web servers impact th
 📊 *Avots: [W3Techs – Web Server Usage Statistics](https://w3techs.com/technologies/overview/web_server)*
 
 
+## 🖥️ Atlasītie tīmekļa serveri
+
+- Gunicorn  
+- Nginx  
+- Caddy  
+- Apache
+
 
 ## :bar_chart: Testu rezultāti ar 1 lietotāju
 
